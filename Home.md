@@ -4,7 +4,7 @@ Welcome to the OSS11Test wiki!`* `
 <ul><h2>Wiki Test</h2>
   <li><a href="https://github.com/gunooknam/OSS11Test/wiki/1-1"> 1-1 </li>
   <li><a href="https://github.com/gunooknam/OSS11Test/wiki/1-2"> 1-2 </li>
-  <li> 1-3 </li>
+  <li><a href="https://github.com/gunooknam/OSS11Test/blob/master/docs/TestPage.md"> 1-3 </li>
   <li> 1-4 </li>
 </ul>
 
