@@ -3,7 +3,7 @@ Welcome to the OSS11Test wiki!
 <a href="https://github.com/gunooknam/OSS11Test/wiki/Second-Page"> Second Page </a>
 <ul><h2>Wiki Test</h2>
   <li><a href="https://github.com/gunooknam/OSS11Test/wiki/1-1"> 1-1 </li>
-  <li> 1-2 </li>
+  <li><a href="https://github.com/gunooknam/OSS11Test/wiki/1-2"> 1-2 </li>
   <li> 1-3 </li>
   <li> 1-4 </li>
 </ul>
