@@ -1,3 +1,3 @@
 Welcome to the OSS11Test wiki!
 # Hello
-<a href="http://zum.com/?af=gt#!/home"> Hello </a>
+<a href="https://github.com/gunooknam/OSS11Test/wiki/Second-Page"> Second Page </a>
